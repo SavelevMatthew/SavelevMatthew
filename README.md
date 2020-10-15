@@ -16,8 +16,8 @@ But you can easily find me on the internet:
 - 🎹 🎸 in my 💖
 
 #### Tools I like and Use/Learn:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="TF" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Keras" width="26px" src="https://raw.githubusercontent.com/SavelevMatthew/SavelevMatthew/main/media/keras.png" />
-<img align="left" alt="TF" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/numpy/numpy.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="TF" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Numpy" width="36px" src="https://raw.githubusercontent.com/SavelevMatthew/SavelevMatthew/main/media/numpy.png" />
+<img align="left" alt="Keras" width="36px" src="https://raw.githubusercontent.com/SavelevMatthew/SavelevMatthew/main/media/keras.png" />
+<img align="left" alt="Django" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
