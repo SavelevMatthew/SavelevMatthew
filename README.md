@@ -41,9 +41,9 @@ But you can easily find me on the internet:
 ---
 <details>
   <summary>📊 Some account info 📊</summary>
-![Account Statistics](https://github-readme-stats.vercel.app/api?username=SavelevMatthew&hide=issues,contribs)
-<br/>
-![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=SavelevMatthew)
+  <img align="center" alt="Account Statistics" src="https://github-readme-stats.vercel.app/api?username=SavelevMatthew&hide=issues,contribs&hide_border=true" />
+  <br/>
+  <img align="center" alt="Language Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavelevMatthew&hide_border=true" />
 </details>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
