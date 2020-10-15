@@ -39,3 +39,6 @@ But you can easily find me on the internet:
 [<img align="left" height="36px" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org)
 <br/><br/>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
