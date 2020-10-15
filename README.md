@@ -37,3 +37,5 @@ But you can easily find me on the internet:
 [<img align="left" height="36px" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>](https://pytorch.org)
 [<img align="left" height="36px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>](https://pandas.pydata.org)
 [<img align="left" height="36px" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org)
+<br/><br/>
+<!--START_SECTION:activity-->
