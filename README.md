@@ -5,8 +5,9 @@ and I'm a student 🎓 of Ural Federal University. My current location is Ekater
 But you can easily find me on the internet:
 <br/><br/>
 [<img height="22" width="22" align="left" alt="instagram: @savmat2" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/savmat2/)
-[<img height="22" width="22" align="left" alt="instagram: @savmat2" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />](savelevmatthew@gmail.com)
-[<img height="22" width="22" align="left" alt="instagram: @savmat2" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />](https://t.me/velevass)
+[<img height="22" width="22" align="left" alt="Mail" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />](savelevmatthew@gmail.com)
+[<img height="22" width="22" align="left" alt="TG" src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" />](https://t.me/velevass)
+[<img height="22" width="22" align="left" alt="Discord" src="https://unpkg.com/simple-icons@v3/icons/discord.svg" />]( https://discord.com/users/256709726564253707)
 <br/>
 > - I'm currently learning web programming (python + django) and data science (python, tf, keras, numpy, streamlit)
 > - I'm looking for some internship next summer...
@@ -31,3 +32,4 @@ But you can easily find me on the internet:
 [<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 [<img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" height="36px" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>](https://www.adobe.com)
