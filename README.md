@@ -38,6 +38,13 @@ But you can easily find me on the internet:
 [<img align="left" height="36px" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>](https://pandas.pydata.org)
 [<img align="left" height="36px" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>](https://jupyter.org)
 <br/><br/>
+---
+<details>
+  <summary>📊 Some account info 📊</summary>
+![Account Statistics](https://github-readme-stats.vercel.app/api?username=SavelevMatthew&hide=issues,contribs)
+<br/>
+![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=SavelevMatthew)
+</details>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
