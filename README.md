@@ -48,4 +48,52 @@ But you can easily find me on the internet:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 114 Contributions in the Year 2020
+ > 
+> 📦 116.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 15 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81% 
+🌆 Daytime    48 commits     █████████░░░░░░░░░░░░░░░░   39.02% 
+🌃 Evening    36 commits     ███████░░░░░░░░░░░░░░░░░░   29.27% 
+🌙 Night      38 commits     ███████░░░░░░░░░░░░░░░░░░   30.89%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
+Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
+Wednesday    24 commits     █████░░░░░░░░░░░░░░░░░░░░   19.51% 
+Thursday     19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
+Friday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+Saturday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+Sunday       27 commits     █████░░░░░░░░░░░░░░░░░░░░   21.95%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Yekaterinburg
+
+💻 Operating System: 
+Mac                      0 secs              █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
