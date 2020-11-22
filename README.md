@@ -91,7 +91,7 @@ Sunday       18 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
