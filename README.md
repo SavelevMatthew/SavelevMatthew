@@ -48,7 +48,7 @@ But you can easily find me on the internet:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110203%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-908642%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
