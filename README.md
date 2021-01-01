@@ -52,7 +52,7 @@ But you can easily find me on the internet:
 
 **🐱 My Github Data** 
 
-> 🏆 116 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 116.2 kB Used in Github's Storage 
  > 
