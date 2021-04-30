@@ -69,7 +69,7 @@ But you can easily find me on the internet, so... \
 
 **🐱 My Github Data** 
 
-> 🏆 51 Contributions in the Year 2021
+> 🏆 57 Contributions in the Year 2021
  > 
 > 📦 120.6 kB Used in Github's Storage 
  > 
@@ -108,7 +108,7 @@ Sunday       19 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.0%
+Mac                      47 mins             █████████████████████████   100.0%
 
 ```
 
