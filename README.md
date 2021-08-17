@@ -69,7 +69,7 @@ But you can easily find me on the internet, so... \
 
 **🐱 My Github Data** 
 
-> 🏆 337 Contributions in the Year 2021
+> 🏆 338 Contributions in the Year 2021
  > 
 > 📦 121.0 kB Used in Github's Storage 
  > 
@@ -91,8 +91,8 @@ But you can easily find me on the internet, so... \
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-Tuesday      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+Tuesday      42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
 Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
 Thursday     82 commits     ██████░░░░░░░░░░░░░░░░░░░   26.2% 
 Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
@@ -113,5 +113,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
