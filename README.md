@@ -69,7 +69,7 @@ But you can easily find me on the internet, so... \
 
 **🐱 My GitHub Data** 
 
-> 🏆 720 Contributions in the Year 2021
+> 🏆 731 Contributions in the Year 2021
  > 
 > 📦 121.2 kB Used in GitHub's Storage 
  > 
@@ -79,13 +79,13 @@ But you can easily find me on the internet, so... \
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-🌆 Daytime    118 commits    ███████████░░░░░░░░░░░░░░   44.7% 
+🌆 Daytime    121 commits    ███████████░░░░░░░░░░░░░░   45.83% 
 🌃 Evening    75 commits     ███████░░░░░░░░░░░░░░░░░░   28.41% 
-🌙 Night      58 commits     █████░░░░░░░░░░░░░░░░░░░░   21.97%
+🌙 Night      55 commits     █████░░░░░░░░░░░░░░░░░░░░   20.83%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -113,5 +113,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/11/2021
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
