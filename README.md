@@ -71,7 +71,7 @@ But you can easily find me on the internet, so... \
 
 > 🏆 489 Contributions in the Year 2022
  > 
-> 📦 237.6 kB Used in GitHub's Storage 
+> 📦 237.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,5 +113,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/04/2022 18:54:33 UTC
+ Last Updated on 22/04/2022 18:51:08 UTC
 <!--END_SECTION:waka-->
