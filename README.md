@@ -71,15 +71,15 @@ But you can easily find me on the internet, so... \
 
 **🐱 My GitHub Data** 
 
-> 🏆 573 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 217.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -115,5 +115,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 14/06/2022 18:51:13 UTC
+ Last Updated on 15/06/2022 18:51:06 UTC
 <!--END_SECTION:waka-->
