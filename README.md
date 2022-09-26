@@ -65,13 +65,13 @@ But you can easily find me on the internet, so... \
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-742%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,527 Contributions in the Year 2022
+> 🏆 1,534 Contributions in the Year 2022
  > 
 > 📦 248.7 kB Used in GitHub's Storage 
  > 
@@ -81,39 +81,6 @@ But you can easily find me on the internet, so... \
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-🌆 Daytime    385 commits    █████████████████░░░░░░░░   68.38% 
-🌃 Evening    136 commits    ██████░░░░░░░░░░░░░░░░░░░   24.16% 
-🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
-Tuesday      151 commits    ██████░░░░░░░░░░░░░░░░░░░   26.82% 
-Wednesday    85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Thursday     158 commits    ███████░░░░░░░░░░░░░░░░░░   28.06% 
-Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36% 
-Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Yekaterinburg
-
-💻 Operating System: 
-Mac                      21 hrs 26 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 25/09/2022 18:59:03 UTC
+ Last Updated on 26/09/2022 19:03:15 UTC
 <!--END_SECTION:waka-->
