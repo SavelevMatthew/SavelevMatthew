@@ -65,7 +65,7 @@ But you can easily find me on the internet, so... \
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-322%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731%20Thousand%20lines%20of%20code-blue)
 
@@ -115,5 +115,5 @@ Mac                      25 hrs 3 mins       ███████████�
 ```
 
 
- Last Updated on 19/11/2022 18:49:20 UTC
+ Last Updated on 20/11/2022 18:49:17 UTC
 <!--END_SECTION:waka-->
