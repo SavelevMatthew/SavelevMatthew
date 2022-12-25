@@ -58,7 +58,7 @@ const conventionalAnalyzerConfig = {
 }
 
 module.exports = {
-    branches: ['master'],
+    branches: ['main'],
     plugins: [
         ['@semantic-release/commit-analyzer', conventionalAnalyzerConfig],
         ['@semantic-release/release-notes-generator', conventionalChangelogConfig],
