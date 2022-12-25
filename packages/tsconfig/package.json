@@ -1,0 +1,30 @@
+{
+  "name": "@savelevmatthew/tsconfig",
+  "description": "Boilerplate set of tsconfig.json for Next / React based projects",
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "react",
+    "next",
+    "library"
+  ],
+  "version": "0.0.0-development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavelevMatthew/SavelevMatthew.git"
+  },
+  "author": {
+    "name": "Matthew Savelev",
+    "email": "savelevmatthew@gmail.com",
+    "url": "https://github.com/SavelevMatthew"
+  },
+  "license": "MIT",
+  "files": [
+    "base.json",
+    "react-lib.json",
+    "next-app.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
