@@ -1,0 +1,9 @@
+{
+  "name": "savelevmatthew",
+  "version": "1.0.0",
+  "description": "Typescript monorepo of personal @savelevmatthew projects and packages",
+  "repository": "https://github.com/SavelevMatthew/SavelevMatthew",
+  "author": "Matthew Savelev <savelevmatthew@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
