@@ -560,6 +560,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"@savelevmatthew/tsconfig@workspace:packages/tsconfig":
+  version: 0.0.0-use.local
+  resolution: "@savelevmatthew/tsconfig@workspace:packages/tsconfig"
+  languageName: unknown
+  linkType: soft
+
 "@semantic-release/commit-analyzer@npm:^9.0.2":
   version: 9.0.2
   resolution: "@semantic-release/commit-analyzer@npm:9.0.2"
