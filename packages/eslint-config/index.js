@@ -10,7 +10,6 @@ module.exports = {
         'browser': true,
         'es2021': true,
         'node': true,
-        'jest/globals': true,
     },
     extends: [
         'eslint:recommended',
@@ -44,23 +43,23 @@ module.exports = {
             'error',
             4,
             {
-                'SwitchCase': 1
-            }
+                'SwitchCase': 1,
+            },
         ],
         'quotes': 'off',
         'jsx-quotes': [
             'error',
-            'prefer-single'
+            'prefer-single',
         ],
         'semi': 'off',
         '@typescript-eslint/semi': [
             'error',
-            'never'
+            'never',
         ],
         'space-before-function-paren': 'off',
         '@typescript-eslint/space-before-function-paren': [
             'error',
-            'always'
+            'always',
         ],
         'comma-dangle': 'off',
         '@typescript-eslint/comma-dangle': [
@@ -73,20 +72,20 @@ module.exports = {
                 'objects': 'always-multiline',
                 'enums': 'always-multiline',
                 'tuples': 'always-multiline',
-                'generics': 'always-multiline'
-            }
+                'generics': 'always-multiline',
+            },
         ],
         'object-curly-spacing': 'off',
         '@typescript-eslint/object-curly-spacing': [
             'error',
-            'always'
+            'always',
         ],
         'no-unused-vars': 'off',
         '@typescript-eslint/no-unused-vars': [
             'error',
             {
-                'args': 'none'
-            }
+                'args': 'none',
+            },
         ],
         '@typescript-eslint/array-type': [
             'error',
@@ -94,19 +93,19 @@ module.exports = {
         ],
         'no-array-constructor': 'off',
         '@typescript-eslint/no-array-constructor': [
-            'error'
+            'error',
         ],
         'no-loop-func': 'off',
         '@typescript-eslint/no-loop-func': [
-            'warn'
+            'warn',
         ],
         'no-loss-of-precision': 'off',
         '@typescript-eslint/no-loss-of-precision': [
-            'error'
+            'error',
         ],
         'no-useless-constructor': 'off',
         '@typescript-eslint/no-useless-constructor': [
-            'error'
+            'error',
         ],
         'no-prototype-builtins': 'off',
         'react/react-in-jsx-scope': 'warn',
@@ -117,8 +116,8 @@ module.exports = {
             'error',
             {
                 'props': 'never',
-                'children': 'never'
-            }
+                'children': 'never',
+            },
         ],
         '@typescript-eslint/no-var-requires': 'off',
         '@typescript-eslint/ban-ts-comment': 'warn',
@@ -128,8 +127,8 @@ module.exports = {
         '@typescript-eslint/space-infix-ops': [
             'error',
             {
-                'int32Hint': false
-            }
-        ]
+                'int32Hint': false,
+            },
+        ],
     },
 }
