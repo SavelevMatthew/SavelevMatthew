@@ -23,6 +23,7 @@
     "publish:packages": "node bin/release-packages.js"
   },
   "devDependencies": {
+    "conventional-changelog-conventionalcommits": "^5.0.0",
     "multi-semantic-release": "^3.0.1"
   }
 }
