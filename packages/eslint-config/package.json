@@ -1,0 +1,39 @@
+{
+  "name": "@savelevmatthew/eslint-config-ts",
+  "description": "Custom eslint config for typescript built on top of some popular configs",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript",
+    "react"
+  ],
+  "version": "0.0.0-development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SavelevMatthew/SavelevMatthew.git"
+  },
+  "author": {
+    "name": "Matthew Savelev",
+    "email": "savelevmatthew@gmail.com",
+    "url": "https://github.com/SavelevMatthew"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.47.0",
+    "@typescript-eslint/parser": "^5.47.0",
+    "eslint": "^8.30.0",
+    "eslint-config-next": "^13.1.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-config-turbo": "^0.0.7",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

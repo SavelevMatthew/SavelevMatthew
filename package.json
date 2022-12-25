@@ -3,7 +3,20 @@
   "version": "1.0.0",
   "description": "Typescript monorepo of personal @savelevmatthew projects and packages",
   "repository": "https://github.com/SavelevMatthew/SavelevMatthew",
-  "author": "Matthew Savelev <savelevmatthew@gmail.com>",
+  "author": {
+    "name": "Matthew Savelev",
+    "email": "savelevmatthew@gmail.com",
+    "url": "https://github.com/SavelevMatthew"
+  },
   "license": "MIT",
-  "packageManager": "yarn@3.3.1"
+  "packageManager": "yarn@3.3.1",
+  "keywords": [
+    "monorepo",
+    "typescript",
+    "savelevmatthew"
+  ],
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
 }
