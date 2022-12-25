@@ -5,5 +5,5 @@
   "repository": "https://github.com/SavelevMatthew/SavelevMatthew",
   "author": "Matthew Savelev <savelevmatthew@gmail.com>",
   "license": "MIT",
-  "private": false
+  "packageManager": "yarn@3.3.1"
 }
