@@ -65,13 +65,13 @@ But you can easily find me on the internet, so... \
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-753%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,043 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 282.0 kB Used in GitHub's Storage 
  > 
@@ -115,5 +115,5 @@ Mac                      13 hrs 41 mins      ███████████�
 ```
 
 
- Last Updated on 31/12/2022 18:43:55 UTC
+ Last Updated on 01/01/2023 18:44:22 UTC
 <!--END_SECTION:waka-->
